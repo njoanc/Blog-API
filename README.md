@@ -1,5 +1,5 @@
 # Blogging App
-The App that helps the blogs writer to sign in and create a blog and the users to view the blog posts posts and comment on them, 26th,Feb,2019
+The App that helps the blogs writer to sign in and create a blog and the users to view the blog posts posts and comment on them, 04th,March,2019
 ## By Jeanne d'ARc NYIRAMWIZA
 # Description
 This Blogging App will help: the blogs writer to sign in to the blog,to create a blog from the application,to delete comments that found insulting or degrading,to update or delete blogs that been have created and Other users to view the blog posts on the site,to comment on blog posts,to view the most recent posts,to get an email alert when a new post is made by joining a subscription and to see random quotes on the site.
@@ -32,23 +32,23 @@ This app may not meet all the desired services as the user need but, It is still
 ## Behavior
 Our program should handle:
 
-1. to sign in to the blog.(for the writer)
+1. To sign in to the blog.(for the writer)
 
-2. to create a blog from the application.(for the writer)
+2. To create a blog from the application.(for the writer)
 
-3. to delete comments that I find insulting or degrading.(for the writer)
+3. To delete comments that I find insulting or degrading.(for the writer)
 
-4. to update or delete blogs I have created.(for the writer)
+4. To update or delete blogs I have created.(for the writer)
 
-5. to view the blog posts on the site.(for the user)
+5. To view the blog posts on the site.(for the user)
 
-6. to comment on blog posts.(for the user)
+6. To comment on blog posts.(for the user)
 
-7. to view the most recent posts.(for the user)
+7. To view the most recent posts.(for the user)
 
-8. to to get an email alert when a new post is made by joining a subscription.(for the user)
+8. To to get an email alert when a new post is made by joining a subscription.(for the user)
 
-9. to see random quotes on the site(for the user)
+9. To see random quotes on the site(for the user)
 
 ## Input Example
 When it receives:
