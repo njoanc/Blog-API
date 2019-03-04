@@ -50,9 +50,7 @@ Our program should handle:
 
 9. To see random quotes on the site(for the user)
 
-## Input Example
-When it receives:
-
+## Input
 1. the user's click on Comment button
 * the user'subscription
 ** Output Example
